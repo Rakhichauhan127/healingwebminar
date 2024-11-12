@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Healing Webinar - Ho'oponopono & NLP</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Heal and Transform Your Life</h1>
+    <p>Join our 45-Day/21-Day Healing Webinar to experience the power of Ho'oponopono prayer and NLP techniques.</p>
+    <a href="#signup-form" class="cta-button">Reserve Your Spot</a>
+  </header>
+
+  <section id="about">
+    <h2>About the Program</h2>
+    <p>Discover the healing journey to release emotional blocks and embrace peace with ancient Hawaiian practices and NLP techniques.</p>
+  </section>
+
+  <section id="benefits">
+    <h2>Benefits of the Program</h2>
+    <ul>
+      <li>Let go of past traumas and negative emotions</li>
+      <li>Develop self-love and mental clarity</li>
+      <li>Foster inner peace and emotional freedom</li>
+      <li>live anxiety free and enjoy financial freedom</li>
+    </ul>
+  </section>
+
+  <section id="testimonials">
+    <h2>Testimonials</h2>
+    <blockquote>
+      <p>"This program helped me find peace and let go of my past hurts. Highly recommend!"</p>
+      <cite>— Client from New York</cite>
+    </blockquote>
+  </section>
+
+  <section id="details">
+    <h2>Webinar Details</h2>
+    <p>Duration: 45 Days or 21 Days</p>
+    <p>Start Date: [21/Nov/2024]</p>
+  </section>
+
+  <section id="cta">
+    <h2>Ready to Start Your Healing Journey?</h2>
+    <a href="#signup-form" class="cta-button">Join Now</a>
+  </section>
+
+  <section id="signup-form">
+    <h2>Sign Up</h2>
+    <form action="/submit-form" method="post">
+      <label for="name">Name</label>
+      <input type="text" id="name" name="name" required>
+      
+      <label for="email">Email</label>
+      <input type="email" id="email" name="email" required>
+      
+      <label for="goal">What do you hope to heal?</label>
+      <input type="text" id="goal" name="goal">
+      
+      <button type="submit" class="cta-button">Reserve My Spot</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 Your Healing Practice. All rights reserved.</p>
+  </footer>
+</body>
+</html>
